@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=MODE Pin=Arduino1-A0
+Removed Pin From Net: NetName=UP Pin=Arduino1-A1
+Removed Pin From Net: NetName=DOWN Pin=Arduino1-A2
+Removed Pin From Net: NetName=Net*1_14 Pin=Arduino1-D4
+Removed Pin From Net: NetName=Net*1_13 Pin=Arduino1-D5
+Removed Pin From Net: NetName=Net*1_12 Pin=Arduino1-D6
+Removed Pin From Net: NetName=Net*1_11 Pin=Arduino1-D7
+Removed Pin From Net: NetName=Net*1_6 Pin=Arduino1-D8
+Removed Pin From Net: NetName=Net*1_4 Pin=Arduino1-D9
+Added Pin To Net: NetName=Net*1_14 Pin=Arduino1-A0
+Added Pin To Net: NetName=Net*1_13 Pin=Arduino1-A1
+Added Pin To Net: NetName=Net*1_12 Pin=Arduino1-A2
+Added Pin To Net: NetName=Net*1_11 Pin=Arduino1-A3
+Added Pin To Net: NetName=Net*1_6 Pin=Arduino1-A4
+Added Pin To Net: NetName=Net*1_4 Pin=Arduino1-A5
+Added Pin To Net: NetName=MODE Pin=Arduino1-D6
+Added Pin To Net: NetName=UP Pin=Arduino1-D7
+Added Pin To Net: NetName=DOWN Pin=Arduino1-D8
+Added Pin To Net: NetName=NetArduino1_D9 Pin=Arduino1-D9
+Added Pin To Net: NetName=NetArduino1_D9 Pin=R4-1
+Added Net: Name=NetArduino1_D9
+Added Room: Name=ReflowOwen
